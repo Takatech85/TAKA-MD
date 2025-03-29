@@ -34,7 +34,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![FORK TAKA-MD](https://img.shields.io/badge/FORK%20-KERM%20MD%20V1-white)](https://github.com/Takatech85/TAKA-MD/fork)
+[![FORK TAKA-MD](https://img.shields.io/badge/FORK%20-TAKA%20MD%20V1-white)](https://github.com/Takatech85/TAKA-MD/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
@@ -44,11 +44,11 @@
 ----------
 1. USE SESSION 1.
 <p align="center">
-<a href="https://pair-session-kermv4-pair.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:1-black?style=for-the-badge&logo=render"></a>
+<a href="https://taka-md-sesion.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:1-black?style=for-the-badge&logo=render"></a>
 <p/>
 2. USE SESSION 2 IF SESSION:1 DOESN'T WORK.
 <p align="center">
-<a href="https://defiant-filippa-arol22-59efdacb.koyeb.app/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:2-black?style=for-the-badge&logo=render"></a>
+<a href="https://taka-md-sesion.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:2-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 ---------------
