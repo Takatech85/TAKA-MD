@@ -54,16 +54,6 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
         console.error(e);
         reply('❌ An error occurred while processing your request.');
     }
-    contextInfo: {
-        mentionedJid: [m.sender],
-        forwardingScore: 999,
-        isForwarded: true,
-        forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363330309457370@newsletter',
-          newsletterName: "TAKA-MD",
-          serverMessageId: 143,
-        },
-      },
 });
 cmd({
     pattern: "ejaculation", // Nom de la commande
