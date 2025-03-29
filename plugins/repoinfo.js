@@ -46,15 +46,5 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         console.log(e);
         reply(`Error fetching repository data🤕: ${e.message}`);
     }
-    contextInfo: {
-        mentionedJid: [m.sender],
-        forwardingScore: 999,
-        isForwarded: true,
-        forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363330309457370@newsletter',
-          newsletterName: "TAKA-MD",
-          serverMessageId: 143,
-        },
-      },
 });
 
