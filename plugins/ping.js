@@ -58,14 +58,4 @@ const startTime = Date.now()
         console.log(e)
         reply(`${e}`)
     }
-    contextInfo: {
-        mentionedJid: [m.sender],
-        forwardingScore: 999,
-        isForwarded: true,
-        forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363330309457370@newsletter',
-          newsletterName: "TAKA-MD",
-          serverMessageId: 143,
-        },
-      },
 })
