@@ -5,7 +5,7 @@
 
 ----------
 
-<a><img src='https://i.imgur.com/Ip3ubrt.jpeg'/></a>
+<a><img src='https://files.catbox.moe/emgeib.jpeg'/></a>
 
 -------
 
@@ -34,7 +34,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![FORK KERM_MD-V4](https://img.shields.io/badge/FORK%20-KERM%20MD%20V1-white)](https://github.com/Takatech85/TAKA-MD/fork)
+[![FORK TAKA-MD](https://img.shields.io/badge/FORK%20-KERM%20MD%20V1-white)](https://github.com/Takatech85/TAKA-MD/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
